@@ -1,4 +1,4 @@
-package vaildators;
+package models.vaildators;
 import java.util.ArrayList;
 import java.util.List;
 
